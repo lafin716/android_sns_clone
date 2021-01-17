@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612732095497",
+    "project_id": "sns-clone",
+    "storage_bucket": "sns-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612732095497:android:841a4b6938434d41cdbcd8",
+        "android_client_info": {
+          "package_name": "com.lafin.firebase_sns_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612732095497-ak0i03fq6av5evg9tva558hav4994qie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkLOoTCIy6VGhm28kBMU0E2Pjd-uA8zkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612732095497-ak0i03fq6av5evg9tva558hav4994qie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
